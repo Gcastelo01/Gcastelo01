@@ -1,4 +1,10 @@
-### Hi there 👋
+# Bem vindo ao meu perfil!
+## Quem sou eu? 
+👨🏼‍💻 Estudante de Ciência da Computação, aluno da Universidade Federal de Minas Gerais
+🎻 Violinista nas horas vagas
+ ## Minhas Habilidades
+ Atualmente, sei desenvolver em python, C, C++ e um pouquinho de JavaScript. 
+ 🎲 Buscando me aprofundar na área de ciência de dados
 
 <!--
 **Gcastelo01/Gcastelo01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
