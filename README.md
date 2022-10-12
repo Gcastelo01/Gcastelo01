@@ -6,7 +6,8 @@
  ## Minhas Habilidades
  Atualmente, sei desenvolver em python, C, C++ e um pouquinho de JavaScript. 
  
- 🎲 Buscando me aprofundar na área de ciência de dados
+ 🎲 Buscando me aprofundar na área de ciência de dados\
+ Desenvolvedor React em aprendizado
 
 <!--
 **Gcastelo01/Gcastelo01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
