@@ -2,13 +2,12 @@
 ## Quem sou eu? 
 👨🏼‍💻 Estudante de Ciência da Computação, aluno da Universidade Federal de Minas Gerais
 
-🎻 Violinista nas horas vagas
  ## Minhas Habilidades
- Atualmente, sei desenvolver em python, C, C++ e um pouquinho de JavaScript. 
+Desenvolvimento em python avançado \
+Desenvolvimento C/C++ mediano, bom domínio de estruturas de dados e manipulação de ponteiros \
+Conhecimento sólido de JavaScript e React. \
+Buscando me aprofundar na área de ciência de dados \
  
- 🎲 Buscando me aprofundar na área de ciência de dados\
- -> Desenvolvedor React!
-
 <!--
 **Gcastelo01/Gcastelo01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
