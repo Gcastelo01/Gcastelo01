@@ -6,7 +6,7 @@
 Desenvolvimento em python avançado \
 Desenvolvimento C/C++ mediano, bom domínio de estruturas de dados e manipulação de ponteiros \
 Conhecimento sólido de JavaScript e React. \
-Buscando me aprofundar na área de ciência de dados \
+Buscando me aprofundar na área de ciência de dados 
  
 <!--
 **Gcastelo01/Gcastelo01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
