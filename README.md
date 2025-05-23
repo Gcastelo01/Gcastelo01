@@ -5,7 +5,7 @@
  ## Minhas Habilidades
 Desenvolvimento em python avançado \
 Desenvolvimento C/C++ mediano, bom domínio de estruturas de dados e manipulação de ponteiros \
-Conhecimento sólido de JavaScript e React. \
+Conhecimento sólido de JavaScript e TypeScript. \
 Buscando me aprofundar na área de ciência de dados 
  
 <!--
