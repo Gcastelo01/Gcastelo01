@@ -1,4 +1,7 @@
 # Bem vindo ao meu perfil!
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gcastelo01&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gcastelo01&layout=compact&hide=Jupyter%20Notebook&theme=tokyonight)
+
 ## Quem sou eu? 
 👨🏼‍💻 Estudante de Ciência da Computação, aluno da Universidade Federal de Minas Gerais
 
