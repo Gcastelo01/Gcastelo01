@@ -1,36 +1,39 @@
 # Gabriel Castelo Branco
 
-**Pesquisador em Inteligência Artificial · Engenharia de Software e Dados**  
+**Pesquisador em Inteligência Artificial · Engenharia de Software, Dados e Infraestrutura**  
 Bacharel em Ciência da Computação pela **UFMG** · Belo Horizonte, Brasil
 
-Trabalho na interseção entre **pesquisa aplicada em IA** e **engenharia de sistemas**. Gosto de investigar como modelos e algoritmos funcionam, avaliar suas limitações e transformar resultados experimentais em software confiável, reproduzível e útil.
+Sou pesquisador e desenvolvedor de software. Trabalho na interseção entre **IA, engenharia de software e dados**, com interesse em compreender sistemas de ponta a ponta: dos modelos e algoritmos à infraestrutura, às redes e aos serviços que os colocam em funcionamento.
 
-## O que faço
+Gosto de unir investigação técnica, experimentação e implementação. Para mim, não basta fazer algo funcionar: também importa entender **por que funciona, como avaliar seus limites e como torná-lo reproduzível e confiável**.
 
-- **Pesquisa em IA:** participo de projetos no **FutureLab / UFMG**, com aplicações de aprendizado de máquina, modelos de fundação, agentes inteligentes e gêmeos digitais.
-- **Engenharia de software e dados:** projeto e implemento APIs, pipelines de dados, serviços backend e sistemas analíticos, com atenção a arquitetura, testes, observabilidade e operação.
-- **Experimentação com modelos:** exploro LLMs, inferência local, avaliação de modelos, sistemas baseados em agentes e técnicas de otimização.
+## No que trabalho e pesquiso
 
-## Projetos selecionados
+- **Inteligência Artificial:** pesquisa aplicada no **FutureLab / UFMG**, envolvendo aprendizado de máquina, modelos de fundação, agentes inteligentes e gêmeos digitais.
+- **Engenharia de software e dados:** desenvolvimento de aplicações backend, APIs, pipelines de dados e sistemas analíticos, com atenção a arquitetura, testes e operação.
+- **Modelos de linguagem:** experimentos com LLMs de pesos abertos, inferência local, quantização, avaliação de modelos e fluxos de trabalho baseados em agentes.
+- **Redes e infraestrutura:** administração de ambientes Linux, virtualização, contêineres, conectividade entre serviços, proxies reversos, DNS, segurança e observabilidade.
 
-| Projeto | O que desenvolvi |
-| --- | --- |
-| **ETL-CVM** *(repositório privado)* | Pipeline auditável de ingestão e tratamento de dados públicos da CVM e B3, com PostgreSQL, rastreabilidade, validação e processamento incremental. |
-| **Finance Dashboard** *(repositório privado)* | Plataforma de análise do mercado financeiro que integra APIs, dados históricos, indicadores e componentes de análise quantitativa. |
-| [**StockValuation**](https://github.com/Gcastelo01/StockValuation) | Aplicação conteinerizada para análise fundamentalista de ações e geração de relatórios em PDF sob demanda. |
-| [**Análise de apartamentos nos EUA**](https://github.com/Gcastelo01/analise-aptos-eua) | Projeto de exploração e mineração de dados, desenvolvido no contexto acadêmico. |
+## Redes, sistemas e laboratório pessoal
 
-## Tecnologias com que trabalho
+Fora dos projetos de pesquisa e desenvolvimento, exploro infraestrutura em ambientes próprios de laboratório (*homelab*). É onde experimento com **Proxmox, máquinas virtuais Linux, Docker/Podman, HAProxy, ZeroTier, DNS local, firewalls e serviços auto-hospedados**.
 
-- **IA e dados:** Python, PyTorch, scikit-learn, pandas, NumPy.
-- **Backend e bancos de dados:** FastAPI, Node.js, TypeScript, PostgreSQL, SQL.
-- **Infraestrutura:** Linux, Docker/Compose, AWS, automação e observabilidade.
-- **LLMs locais:** llama.cpp, quantização, inferência e ferramentas para agentes.
+Tenho interesse especial pela relação entre **arquitetura, desempenho, segurança e confiabilidade**, inclusive na infraestrutura necessária para executar modelos de IA localmente.
 
-## Interesses de pesquisa
+## Tecnologias e ferramentas
 
-Modelos de linguagem e *foundation models* · Agentes de IA · Aprendizado de máquina · Otimização computacional · Avaliação de modelos · Sistemas de dados e infraestrutura para IA
+- **IA e computação científica:** Python, PyTorch, scikit-learn, pandas, NumPy, llama.cpp.
+- **Desenvolvimento e dados:** FastAPI, Node.js, TypeScript, PostgreSQL, SQL.
+- **Sistemas e infraestrutura:** Linux, Docker/Compose, Podman, Proxmox, AWS, HAProxy, ZeroTier.
+
+## Interesses
+
+*Foundation models* · Agentes de IA · Aprendizado de máquina · Otimização computacional · Inferência e avaliação de LLMs · Sistemas distribuídos · Redes de computadores · Infraestrutura e automação
+
+## Atividade no GitHub
+
+[![Estatísticas do GitHub de Gabriel](https://github-readme-stats.vercel.app/api?username=Gcastelo01&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/Gcastelo01)
 
 ---
 
-Estou interessado em projetos e colaborações que conectem **pesquisa, IA e construção de sistemas reais**.
+Tenho interesse em **pesquisa, projetos e colaborações** que conectem IA, engenharia e sistemas computacionais.
