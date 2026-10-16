@@ -34,6 +34,3 @@ Tenho interesse especial pela relação entre **arquitetura, desempenho, seguran
 
 [![Estatísticas do GitHub de Gabriel](https://github-readme-stats.vercel.app/api?username=Gcastelo01&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/Gcastelo01)
 
----
-
-Tenho interesse em **pesquisa, projetos e colaborações** que conectem IA, engenharia e sistemas computacionais.
